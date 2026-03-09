@@ -1,0 +1,21 @@
+# 忽略编译生成的文件
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.dll
+
+# 忽略Visual Studio的中间目录
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# 忽略用户配置文件
+*.user
+*.suo
+
+# 忽略本地设置
+.vscode/
+.idea/
