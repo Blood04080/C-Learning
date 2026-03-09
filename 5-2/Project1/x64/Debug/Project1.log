@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\Administrator\Desktop\Learning code\C Learning code\5-2\Project1\源.c(7,10): warning C4101: “n2”: 未引用的局部变量
+C:\Users\Administrator\Desktop\Learning code\C Learning code\5-2\Project1\源.c(7,14): warning C4101: “n3”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\Learning code\C Learning code\5-2\x64\Debug\Project1.exe
